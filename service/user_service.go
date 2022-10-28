@@ -1,7 +1,7 @@
 package service
 
 import (
-	"mangojek-backend/model"
+	"github.com/krifik/groupchat-be/model"
 )
 
 type UserService interface {

@@ -1,10 +1,10 @@
 package controller
 
 import (
-	"mangojek-backend/exception"
-	"mangojek-backend/helper"
-	"mangojek-backend/model"
-	"mangojek-backend/service"
+	"github.com/krifik/groupchat-be/exception"
+	"github.com/krifik/groupchat-be/helper"
+	"github.com/krifik/groupchat-be/model"
+	"github.com/krifik/groupchat-be/service"
 
 	"github.com/gofiber/fiber/v2"
 )

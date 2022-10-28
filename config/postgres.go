@@ -4,9 +4,10 @@ import (
 	"context"
 	"fmt"
 	"log"
-	"mangojek-backend/exception"
 	"strconv"
 	"time"
+
+	"github.com/krifik/groupchat-be/exception"
 
 	"github.com/jackc/pgx/v5"
 	"gorm.io/driver/postgres"

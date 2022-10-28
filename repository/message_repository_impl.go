@@ -1,10 +1,10 @@
 package repository
 
 import (
-	"mangojek-backend/config"
-	"mangojek-backend/entity"
-	"mangojek-backend/exception"
-	"mangojek-backend/model"
+	"github.com/krifik/groupchat-be/config"
+	"github.com/krifik/groupchat-be/entity"
+	"github.com/krifik/groupchat-be/exception"
+	"github.com/krifik/groupchat-be/model"
 
 	"gorm.io/gorm"
 )

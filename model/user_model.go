@@ -1,8 +1,9 @@
 package model
 
 import (
-	"mangojek-backend/entity"
 	"time"
+
+	"github.com/krifik/groupchat-be/entity"
 
 	"gorm.io/gorm"
 )

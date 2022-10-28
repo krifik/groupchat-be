@@ -1,8 +1,9 @@
 package config
 
 import (
-	"mangojek-backend/exception"
 	"os"
+
+	"github.com/krifik/groupchat-be/exception"
 
 	"github.com/joho/godotenv"
 )

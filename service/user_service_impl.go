@@ -2,14 +2,15 @@ package service
 
 import (
 	"encoding/base64"
-	"mangojek-backend/exception"
-	"mangojek-backend/model"
-	"mangojek-backend/repository"
-	"mangojek-backend/validation"
 	"math/rand"
 	"os"
 	"strconv"
 	"strings"
+
+	"github.com/krifik/groupchat-be/exception"
+	"github.com/krifik/groupchat-be/model"
+	"github.com/krifik/groupchat-be/repository"
+	"github.com/krifik/groupchat-be/validation"
 )
 
 type UserServiceImpl struct {

@@ -1,11 +1,11 @@
 package app
 
 import (
-	"mangojek-backend/config"
-	"mangojek-backend/controller"
-	"mangojek-backend/repository"
-	"mangojek-backend/routes"
-	"mangojek-backend/service"
+	"github.com/krifik/groupchat-be/config"
+	"github.com/krifik/groupchat-be/controller"
+	"github.com/krifik/groupchat-be/repository"
+	"github.com/krifik/groupchat-be/routes"
+	"github.com/krifik/groupchat-be/service"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"

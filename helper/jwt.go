@@ -2,7 +2,8 @@ package helper
 
 import (
 	"fmt"
-	"mangojek-backend/exception"
+
+	"github.com/krifik/groupchat-be/exception"
 
 	"github.com/dgrijalva/jwt-go"
 )

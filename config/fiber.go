@@ -1,7 +1,7 @@
 package config
 
 import (
-	"mangojek-backend/exception"
+	"github.com/krifik/groupchat-be/exception"
 
 	"github.com/gofiber/fiber/v2"
 )

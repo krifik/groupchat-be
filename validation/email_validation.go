@@ -1,6 +1,6 @@
 package validation
 
-import "mangojek-backend/exception"
+import "github.com/krifik/groupchat-be/exception"
 
 func IsEmailHasBeenTaken(row int64) {
 	if row != 0 {

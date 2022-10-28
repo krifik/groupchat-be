@@ -1,4 +1,4 @@
-module mangojek-backend
+module github.com/krifik/groupchat-be
 
 go 1.19
 

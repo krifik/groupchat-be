@@ -1,6 +1,6 @@
 package service
 
-import "mangojek-backend/model"
+import "github.com/krifik/groupchat-be/model"
 
 type MessageService interface {
 	SendMessage(request model.CreateMessageRequest) (response model.CreateMessageResponse)

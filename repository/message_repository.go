@@ -1,8 +1,8 @@
 package repository
 
 import (
-	"mangojek-backend/entity"
-	"mangojek-backend/model"
+	"github.com/krifik/groupchat-be/entity"
+	"github.com/krifik/groupchat-be/model"
 )
 
 type MessageRepository interface {

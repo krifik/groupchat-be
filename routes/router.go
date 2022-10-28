@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"mangojek-backend/controller"
-	"mangojek-backend/middleware"
+	"github.com/krifik/groupchat-be/controller"
+	"github.com/krifik/groupchat-be/middleware"
 
 	"github.com/gofiber/fiber/v2"
 )

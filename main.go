@@ -1,8 +1,8 @@
 package main
 
 import (
-	"mangojek-backend/app"
-	"mangojek-backend/exception"
+	"github.com/krifik/groupchat-be/app"
+	"github.com/krifik/groupchat-be/exception"
 )
 
 func main() {

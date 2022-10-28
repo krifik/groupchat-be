@@ -1,9 +1,9 @@
 package service
 
 import (
-	"mangojek-backend/entity"
-	"mangojek-backend/model"
-	"mangojek-backend/repository"
+	"github.com/krifik/groupchat-be/entity"
+	"github.com/krifik/groupchat-be/model"
+	"github.com/krifik/groupchat-be/repository"
 )
 
 type MessageServiceImpl struct {

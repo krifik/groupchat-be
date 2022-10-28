@@ -1,6 +1,6 @@
 package config
 
-import "mangojek-backend/entity"
+import "github.com/krifik/groupchat-be/entity"
 
 type Entity struct {
 	Entity interface{}

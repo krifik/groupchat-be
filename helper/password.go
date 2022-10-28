@@ -1,7 +1,7 @@
 package helper
 
 import (
-	"mangojek-backend/exception"
+	"github.com/krifik/groupchat-be/exception"
 
 	"golang.org/x/crypto/bcrypt"
 )

@@ -1,8 +1,8 @@
 package validation
 
 import (
-	"mangojek-backend/exception"
-	"mangojek-backend/model"
+	"github.com/krifik/groupchat-be/exception"
+	"github.com/krifik/groupchat-be/model"
 
 	validation "github.com/go-ozzo/ozzo-validation"
 )

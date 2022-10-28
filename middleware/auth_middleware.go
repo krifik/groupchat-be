@@ -1,10 +1,11 @@
 package middleware
 
 import (
-	"mangojek-backend/exception"
-	"mangojek-backend/helper"
 	"strings"
 	"time"
+
+	"github.com/krifik/groupchat-be/exception"
+	"github.com/krifik/groupchat-be/helper"
 
 	"github.com/gofiber/fiber/v2"
 )

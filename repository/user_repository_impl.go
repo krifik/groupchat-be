@@ -2,11 +2,12 @@ package repository
 
 import (
 	"errors"
-	"mangojek-backend/config"
-	"mangojek-backend/entity"
-	"mangojek-backend/exception"
-	"mangojek-backend/helper"
-	"mangojek-backend/model"
+
+	"github.com/krifik/groupchat-be/config"
+	"github.com/krifik/groupchat-be/entity"
+	"github.com/krifik/groupchat-be/exception"
+	"github.com/krifik/groupchat-be/helper"
+	"github.com/krifik/groupchat-be/model"
 
 	"golang.org/x/crypto/bcrypt"
 	"gorm.io/gorm"
