@@ -9,6 +9,6 @@ func main() {
 	appl := app.InitializedApp()
 	// app.InitializedPusher()
 	// Start App
-	err := appl.Listen(":3000")
+	err := appl.Listen("0.0.0.0:3000")
 	exception.PanicIfNeeded(err)
 }
