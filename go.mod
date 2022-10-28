@@ -1,5 +1,4 @@
 module github.com/krifik/groupchat-be
-
 go 1.19
 
 require (
